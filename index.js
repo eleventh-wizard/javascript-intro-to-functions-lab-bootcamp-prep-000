@@ -11,4 +11,3 @@ function logShout(string) {
  // var quiet = "hello"
   string.toUpperCase(console.log())
 }
-logShout("hello")
